@@ -812,7 +812,7 @@
 	},
 	{
 		"abr": "grandsculpture",
-		"price": 1125,
+		"price": 1000,
 		"category": "Art",
 		"defname": "SculptureGrand"
 	},
@@ -1106,7 +1106,7 @@
 	},
 	{
 		"abr": "largesculpture",
-		"price": 517,
+		"price": 500,
 		"category": "Art",
 		"defname": "SculptureLarge"
 	},
@@ -1526,7 +1526,7 @@
 	},
 	{
 		"abr": "psychicemanator",
-		"price": 2500,
+		"price": 4000,
 		"category": "Special",
 		"defname": "PsychicEmanator"
 	},
@@ -1718,7 +1718,7 @@
 	},
 	{
 		"abr": "smallsculpture",
-		"price": 275,
+		"price": 250,
 		"category": "Art",
 		"defname": "SculptureSmall"
 	},
@@ -1862,7 +1862,7 @@
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 2100,
+		"price": 2500,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -1994,7 +1994,7 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2500,
+		"price": 4000,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
