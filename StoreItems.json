@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "advancedcomponent",
-		"price": 333,
+		"price": 555,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
@@ -26,7 +26,7 @@
 	},
 	{
 		"abr": "alpaca",
-		"price": 583,
+		"price": 623,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
@@ -44,7 +44,7 @@
 	},
 	{
 		"abr": "alphabeaver",
-		"price": 417,
+		"price": 467,
 		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
@@ -80,31 +80,31 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": 5000,
 		"category": "Artificial",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": 5000,
 		"category": "Artificial",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": 5000,
 		"category": "Artificial",
 		"defname": "ArchotechLeg"
 	},
 	{
 		"abr": "arcticfox",
-		"price": 333,
+		"price": 383,
 		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "arcticwolf",
-		"price": 583,
+		"price": 633,
 		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
@@ -182,43 +182,43 @@
 	},
 	{
 		"abr": "bionicarm",
-		"price": 1717,
+		"price": 2500,
 		"category": "Artificial",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicear",
-		"price": 1308,
+		"price": 1700,
 		"category": "Artificial",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bioniceye",
-		"price": 1708,
+		"price": 2000,
 		"category": "Artificial",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicheart",
-		"price": 1383,
+		"price": 1900,
 		"category": "Artificial",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicleg",
-		"price": 1717,
+		"price": 2500,
 		"category": "Artificial",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
-		"price": 1717,
+		"price": 2000,
 		"category": "Artificial",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicstomach",
-		"price": 1308,
+		"price": 1700,
 		"category": "Artificial",
 		"defname": "BionicStomach"
 	},
@@ -248,7 +248,7 @@
 	},
 	{
 		"abr": "boomalope",
-		"price": 583,
+		"price": 650,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
@@ -260,7 +260,7 @@
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": 280,
 		"category": "Animal",
 		"defname": "Boomrat"
 	},
@@ -320,7 +320,7 @@
 	},
 	{
 		"abr": "caribou",
-		"price": 500,
+		"price": 550,
 		"category": "Animal",
 		"defname": "Caribou"
 	},
@@ -332,7 +332,7 @@
 	},
 	{
 		"abr": "cassowary",
-		"price": 333,
+		"price": 383,
 		"category": "Animal",
 		"defname": "Cassowary"
 	},
@@ -362,13 +362,13 @@
 	},
 	{
 		"abr": "chargelance",
-		"price": 2258,
+		"price": 2600,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
 	{
 		"abr": "chargerifle",
-		"price": 1683,
+		"price": 2000,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
@@ -386,7 +386,7 @@
 	},
 	{
 		"abr": "chicken",
-		"price": 83,
+		"price": 123,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
@@ -410,7 +410,7 @@
 	},
 	{
 		"abr": "chinchilla",
-		"price": 250,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Chinchilla"
 	},
@@ -446,7 +446,7 @@
 	},
 	{
 		"abr": "cobra",
-		"price": 250,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Cobra"
 	},
@@ -464,13 +464,13 @@
 	},
 	{
 		"abr": "cochlearimplant",
-		"price": 342,
+		"price": 350,
 		"category": "Artificial",
 		"defname": "CochlearImplant"
 	},
 	{
 		"abr": "component",
-		"price": 53,
+		"price": 75,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
 	},
@@ -482,7 +482,7 @@
 	},
 	{
 		"abr": "cougar",
-		"price": 667,
+		"price": 727,
 		"category": "Animal",
 		"defname": "Cougar"
 	},
@@ -494,7 +494,7 @@
 	},
 	{
 		"abr": "cow",
-		"price": 500,
+		"price": 550,
 		"category": "Animal",
 		"defname": "Cow"
 	},
@@ -512,7 +512,7 @@
 	},
 	{
 		"abr": "deer",
-		"price": 417,
+		"price": 467,
 		"category": "Animal",
 		"defname": "Deer"
 	},
@@ -536,7 +536,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": 2200,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -548,7 +548,7 @@
 	},
 	{
 		"abr": "doublebedroll",
-		"price": 290,
+		"price": 190,
 		"category": "Furniture",
 		"defname": "BedrollDouble"
 	},
@@ -560,7 +560,7 @@
 	},
 	{
 		"abr": "dromedary",
-		"price": 500,
+		"price": 550,
 		"category": "Animal",
 		"defname": "Dromedary"
 	},
@@ -608,7 +608,7 @@
 	},
 	{
 		"abr": "elephant",
-		"price": 1000,
+		"price": 1500,
 		"category": "Animal",
 		"defname": "Elephant"
 	},
@@ -656,7 +656,7 @@
 	},
 	{
 		"abr": "emu",
-		"price": 333,
+		"price": 383,
 		"category": "Animal",
 		"defname": "Emu"
 	},
@@ -674,7 +674,7 @@
 	},
 	{
 		"abr": "fennecfox",
-		"price": 333,
+		"price": 383,
 		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
@@ -770,7 +770,7 @@
 	},
 	{
 		"abr": "gazelle",
-		"price": 250,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Gazelle"
 	},
@@ -788,7 +788,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": 83,
+		"price": 80,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -806,7 +806,7 @@
 	},
 	{
 		"abr": "gold",
-		"price": 17,
+		"price": 25,
 		"category": "Raw resources",
 		"defname": "Gold"
 	},
@@ -830,7 +830,7 @@
 	},
 	{
 		"abr": "grizzlybear",
-		"price": 1167,
+		"price": 1337,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
@@ -842,7 +842,7 @@
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": 125,
 		"category": "Animal",
 		"defname": "Hare"
 	},
@@ -860,7 +860,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": 2600,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -926,7 +926,7 @@
 	},
 	{
 		"abr": "human",
-		"price": 2917,
+		"price": 3300,
 		"category": "Animal",
 		"defname": "Human"
 	},
@@ -962,7 +962,7 @@
 	},
 	{
 		"abr": "ibex",
-		"price": 417,
+		"price": 467,
 		"category": "Animal",
 		"defname": "Ibex"
 	},
@@ -974,7 +974,7 @@
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2008,
+		"price": 2500,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
@@ -1004,7 +1004,7 @@
 	},
 	{
 		"abr": "iguana",
-		"price": 167,
+		"price": 237,
 		"category": "Animal",
 		"defname": "Iguana"
 	},
@@ -1094,7 +1094,7 @@
 	},
 	{
 		"abr": "labradorretriever",
-		"price": 417,
+		"price": 467,
 		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
@@ -1166,7 +1166,7 @@
 	},
 	{
 		"abr": "lynx",
-		"price": 417,
+		"price": 467,
 		"category": "Animal",
 		"defname": "Lynx"
 	},
@@ -1202,13 +1202,13 @@
 	},
 	{
 		"abr": "marinearmor",
-		"price": 3392,
+		"price": 3700,
 		"category": "Apparel",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
 		"abr": "marinehelmet",
-		"price": 1058,
+		"price": 2200,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet"
 	},
@@ -1220,7 +1220,7 @@
 	},
 	{
 		"abr": "megascarab",
-		"price": 167,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Megascarab"
 	},
@@ -1232,7 +1232,7 @@
 	},
 	{
 		"abr": "megasloth",
-		"price": 1167,
+		"price": 1767,
 		"category": "Animal",
 		"defname": "Megasloth"
 	},
@@ -1250,7 +1250,7 @@
 	},
 	{
 		"abr": "megaspider",
-		"price": 833,
+		"price": 1000,
 		"category": "Animal",
 		"defname": "Megaspider"
 	},
@@ -1280,7 +1280,7 @@
 	},
 	{
 		"abr": "monkey",
-		"price": 167,
+		"price": 217,
 		"category": "Animal",
 		"defname": "Monkey"
 	},
@@ -1298,7 +1298,7 @@
 	},
 	{
 		"abr": "muffalo",
-		"price": 500,
+		"price": 550,
 		"category": "Animal",
 		"defname": "Muffalo"
 	},
@@ -1340,13 +1340,13 @@
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
-		"price": 2000,
+		"price": 2900,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
-		"price": 2000,
+		"price": 2900,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
@@ -1358,7 +1358,7 @@
 	},
 	{
 		"abr": "ostrich",
-		"price": 417,
+		"price": 467,
 		"category": "Animal",
 		"defname": "Ostrich"
 	},
@@ -1382,7 +1382,7 @@
 	},
 	{
 		"abr": "panther",
-		"price": 667,
+		"price": 750,
 		"category": "Animal",
 		"defname": "Panther"
 	},
@@ -1430,7 +1430,7 @@
 	},
 	{
 		"abr": "pig",
-		"price": 333,
+		"price": 383,
 		"category": "Animal",
 		"defname": "Pig"
 	},
@@ -1478,7 +1478,7 @@
 	},
 	{
 		"abr": "polarbear",
-		"price": 1167,
+		"price": 1337,
 		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
@@ -1496,7 +1496,7 @@
 	},
 	{
 		"abr": "powerclaw",
-		"price": 2000,
+		"price": 2500,
 		"category": "Artificial",
 		"defname": "PowerClaw"
 	},
@@ -1520,13 +1520,13 @@
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": 1167,
+		"price": 1800,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
 	{
 		"abr": "psychicemanator",
-		"price": 2167,
+		"price": 2500,
 		"category": "Special",
 		"defname": "PsychicEmanator"
 	},
@@ -1538,19 +1538,19 @@
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": 1083,
+		"price": 1800,
 		"category": "Artifacts",
 		"defname": "PsychicInsanityLance"
 	},
 	{
 		"abr": "psychicshocklance",
-		"price": 917,
+		"price": 1600,
 		"category": "Artifacts",
 		"defname": "PsychicShockLance"
 	},
 	{
 		"abr": "psychicsoothepulser",
-		"price": 1000,
+		"price": 1900,
 		"category": "Artifacts",
 		"defname": "PsychicSoothePulser"
 	},
@@ -1574,7 +1574,7 @@
 	},
 	{
 		"abr": "raccoon",
-		"price": 167,
+		"price": 237,
 		"category": "Animal",
 		"defname": "Raccoon"
 	},
@@ -1586,7 +1586,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -1610,13 +1610,13 @@
 	},
 	{
 		"abr": "redfox",
-		"price": 333,
+		"price": 380,
 		"category": "Animal",
 		"defname": "Fox_Red"
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2833,
+		"price": 4500,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -1628,7 +1628,7 @@
 	},
 	{
 		"abr": "rhinoceros",
-		"price": 1167,
+		"price": 1430,
 		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
@@ -1688,7 +1688,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": 2,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
@@ -1742,13 +1742,13 @@
 	},
 	{
 		"abr": "sniperrifle",
-		"price": 883,
+		"price": 950,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle"
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": 123,
 		"category": "Animal",
 		"defname": "Snowhare"
 	},
@@ -1760,7 +1760,7 @@
 	},
 	{
 		"abr": "spelopede",
-		"price": 333,
+		"price": 403,
 		"category": "Animal",
 		"defname": "Spelopede"
 	},
@@ -1772,7 +1772,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -1862,7 +1862,7 @@
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": 2100,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -1910,13 +1910,13 @@
 	},
 	{
 		"abr": "tornadogenerator",
-		"price": 1333,
+		"price": 1900,
 		"category": "Ranged weapons",
 		"defname": "TornadoGenerator"
 	},
 	{
 		"abr": "tortoise",
-		"price": 333,
+		"price": 383,
 		"category": "Animal",
 		"defname": "Tortoise"
 	},
@@ -1946,7 +1946,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": 1900,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -1970,7 +1970,7 @@
 	},
 	{
 		"abr": "turkey",
-		"price": 167,
+		"price": 237,
 		"category": "Animal",
 		"defname": "Turkey"
 	},
@@ -1994,7 +1994,7 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": 2500,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -2030,7 +2030,7 @@
 	},
 	{
 		"abr": "warg",
-		"price": 750,
+		"price": 800,
 		"category": "Animal",
 		"defname": "Warg"
 	},
@@ -2042,7 +2042,7 @@
 	},
 	{
 		"abr": "wildboar",
-		"price": 333,
+		"price": 383,
 		"category": "Animal",
 		"defname": "WildBoar"
 	},
@@ -2078,7 +2078,7 @@
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": 237,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
